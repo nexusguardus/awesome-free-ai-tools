@@ -39,6 +39,7 @@
 
 | Tool | Free Tier | No CC | Limits | Notes |
 |---|---|---|---|---|
+| **[LandscapioAI](https://www.landscapioai.com/)** | AI landscape design plan starter flow | ✅ | Free start; usage limits not publicly specified | Landscape design visualizations with cost estimates and contractor-ready planning. |
 | **[Leonardo.ai](https://leonardo.ai)** | 150 fast tokens/day | ✅ | 150/day, public images | Best quality-to-free ratio. |
 | **[Ideogram](https://ideogram.ai)** | 10 slow credits/week | ✅ | ~40 images/week | Best text rendering in images. |
 | **[Bing Image Creator](https://bing.com/images/create)** | 15 boosts/day (DALL-E 3) | ✅ | 15/day, 1024x1024 | Powered by DALL-E 3. Completely free. |

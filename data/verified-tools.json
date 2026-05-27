@@ -198,6 +198,15 @@
     "notes": "Simple multi-model chat."
   },
   {
+    "name": "LandscapioAI",
+    "url": "https://www.landscapioai.com/",
+    "category": "ai-image",
+    "freeTier": "AI landscape design plan starter flow",
+    "noCreditCard": true,
+    "limits": "Free start; usage limits not publicly specified",
+    "notes": "Landscape design visualizations with cost estimates and contractor-ready planning."
+  },
+  {
     "name": "Leonardo.ai",
     "url": "https://leonardo.ai",
     "category": "ai-image",
