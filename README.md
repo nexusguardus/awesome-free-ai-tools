@@ -109,6 +109,7 @@
 | **[Replit](https://replit.com/pricing)** | Limited AI credits, basic compute | ⚠️ | Monthly credits | Browser-based IDE. |
 | **[Google Firebase Studio (IDX)](https://idx.dev)** | Free cloud IDE with Gemini | ✅ | Generous rate limits | Web-based, Gemini AI. |
 | **[Blackbox AI](https://www.blackbox.ai)** | Code completion, basic chat | ✅ | Limited queries | VS Code extension. |
+| **[Roblox GUI Maker](https://robloxguimaker.dev/)** | Free Roblox Studio GUI planner | ✅ | Browser-based | Generates ScreenGui layouts and Lua UI starter code. |
 | **[Pieces OS](https://pieces.app)** | Local-first, snippet mgmt, copilot | ✅ | Unlimited locally | Open source. |
 | **[PearAI](https://trypear.ai/pricing)** | Unlimited AI autocomplete | ✅ | Limited advanced | Open source VS Code fork. |
 | **[Bolt.new](https://bolt.new)** | Limited monthly tokens | ⚠️ | Token-based | AI web app gen. Open source. |

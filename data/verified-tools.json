@@ -693,6 +693,15 @@
     "notes": "VS Code extension."
   },
   {
+    "name": "Roblox GUI Maker",
+    "url": "https://robloxguimaker.dev/",
+    "category": "ai-code",
+    "freeTier": "Free Roblox Studio GUI planner",
+    "noCreditCard": true,
+    "limits": "Browser-based",
+    "notes": "Generates ScreenGui layouts and Lua UI starter code."
+  },
+  {
     "name": "Pieces OS",
     "url": "https://pieces.app",
     "category": "ai-code",
