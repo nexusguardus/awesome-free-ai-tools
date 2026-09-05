@@ -25,6 +25,7 @@
 | **[Duck.ai](https://duck.ai)** | GPT-4o mini via anonymous proxy | ✅ | Generous | Privacy-first, no account needed. |
 | **[Pi (Inflection)](https://pi.ai)** | Emotional AI, voice mode | ✅ | Generous | Great conversational style. |
 | **[Character.AI](https://character.ai)** | 10M+ characters, voice chat | ✅ | ~20-50 msg/day | Roleplay & creative writing. |
+| **[WSUP AI](https://wsupai.app/)** | Free AI character chat, no sign up | ✅ | Unlimited free | SFW-only character chat in the browser. |
 | **[DeepAI Chat](https://deepai.org/chat)** | Standard models + image gen | ✅ | Moderate daily credits | Has API. |
 | **[Perplexity](https://perplexity.ai)** | AI search + chat, file uploads | ✅ | 5 Pro searches/day | Best for research. |
 | **[You.com](https://you.com)** | Chat with search, multiple modes | ✅ | Moderate limits | Has API, ad-supported. |
