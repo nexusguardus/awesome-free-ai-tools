@@ -170,6 +170,7 @@
 | **[DeepL Translator](https://deepl.com)** | 5K chars/translation | ✅ | 3 file trans/mo | Best AI translator. |
 | **[QuillBot](https://quillbot.com)** | Paraphrase 125 words, summarize | ✅ | 1,200 word summary | Paraphrasing tool. |
 | **[Wordtune](https://wordtune.com)** | AI rewrites, grammar, tone | ✅ | Limited free | Writing assistant. |
+| **[ResumeAI](https://withresumeai.com/)** | 3 ATS checks/day anon, 10/day free account | ✅ | Daily free limits | Free ATS checker + AI resume builder. |
 | **[Mem](https://mem.ai)** | AI-auto-tagged notes | ✅ | Unlimited notes | AI-powered notes. |
 | **[Recraft AI](https://recraft.ai)** | 30 credits/day | ✅ | 30/day | Vectors + mockups. |
 | **[Pixlr](https://pixlr.com)** | 3 saves/day, 50 AI credits/mo | ✅ | Ads | AI photo editor. |
