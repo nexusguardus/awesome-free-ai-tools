@@ -60,6 +60,7 @@
 | Tool | Free Tier | No CC | Limits | Notes |
 |---|---|---|---|---|
 | **[Kling](https://klingai.com)** | 66 daily credits | ✅ | 66/day, 720p | Best physics/motion on free. |
+| **[Cyanvid](https://cyanvid.com/?utm_source=nexusguardus-awesome-free-ai-tools&utm_medium=directory&utm_campaign=backlinks)** | 8 welcome credits | Sign-up | Credit-based | AI video generator from text or images; credit quotes before generate. |
 | **[PixVerse](https://pixverse.ai)** | 60-90 daily credits | ✅ | Watermarked | Fast generation. |
 | **[Pika](https://pika.art)** | 80 monthly credits | ✅ | 480p, watermarked | Fun Pikaffects. |
 | **[Runway](https://runwayml.com)** | 125 one-time credits | ✅ | One-time, 720p | Exhausts permanently. |
